@@ -9,3 +9,5 @@ This project is used to test Github and Jira integration.
 This is part of a Graduate Project as part of Sage Ignite.
 
 Thanks for reading.
+
+-Stuart and Connor
